@@ -1,1 +1,41 @@
-# biglaw-bench
+# BigLaw Bench
+A new standard for evaluating AI on legal & professional tasks.
+
+## Overview
+BigLaw Bench is a comprehensive framework for evaluating the performance of large language models (LLMs) on complex, real-world legal tasks. Developed by Harvey's legal research team, BigLaw Bench aims to supplement existing benchmarks by focusing on tasks that mirror actual billable work performed by lawyers, providing a more accurate measure of an AI model's utility in professional legal settings.
+
+## Task Categories
+BigLaw Bench tasks are organized into two primary categories, each encompassing several specific task types:
+
+#### Transactional Task Categories
+- Corporate Strategy & Advising
+- Drafting
+- Legal Research
+- Due Diligence
+- Risk Assessment & Compliance
+- Negotiation Strategy
+- Deal Management
+- Transaction Structuring
+- Regulatory & Advising
+
+#### Litigation Task Categories
+- Analysis of Litigation Filings
+- Case Management
+- Drafting
+- Case Law Research
+- Transcript Analysis
+- Document Review and Analysis
+- Trial Preparations & Oral Argument
+
+## Evaluation Methodology
+Each task in BigLaw Bench is assessed using custom-designed rubrics that measure:
+- **Answer Quality**: Evaluates the completeness, accuracy, and appropriateness of the model's response based on specific criteria essential for effective task completion.
+- **Source Reliability**: Assesses the model's ability to provide verifiable and correctly cited sources for its assertions, enhancing trust and facilitating validation.
+
+Scores are calculated by combining positive points for meeting task requirements and negative points for errors or missteps (e.g. hallucinations). The final answer score represents: *What % of a lawyer-quality work product does the model complete for the user?*
+
+## Data Sample
+A sample of tasks and grading rubrics can be found [here](biglaw-bench-sample.csv). For access to the full dataset and additional resources, please contact Harvey directly.
+
+## Credits
+[Julio Pereyra](https://www.linkedin.com/in/julio-pereyra-411738147), [Elizabeth Lebens](https://www.linkedin.com/in/beth-lebens-777847263), [Matthew Guillod](https://www.linkedin.com/in/matthew-guillod-284671116), [Laura Toulme](https://www.linkedin.com/in/laura-toulme-a6b66182), [Cameron MacGregor](https://www.linkedin.com/in/cameron-macgregor-396580164), [David Murdter](https://www.linkedin.com/in/davidmurdter), [Karl de la Roche](https://www.linkedin.com/in/karldelaroche), [Emilie McConnachie](https://www.linkedin.com/in/emilie-mcconnachie), [Jeremy Pushkin](https://www.linkedin.com/in/jeremypushkin), [Rina Kim](https://www.linkedin.com/in/rinakime), [Aaron Chan](https://www.linkedin.com/in/aaron-y-chan), [Jenny Pan](https://www.linkedin.com/in/jennyypan), [Boling Yang](https://www.linkedin.com/in/boling-yang-104534123), [Nan Wu](https://www.linkedin.com/in/nan-wu-41895bb7), [Niko Grupen](https://www.linkedin.com/in/nikogrupen), [Lauren Oh](https://www.linkedin.com/in/lauren-dayoun-oh), [Aatish Nayak](https://www.linkedin.com/in/aatishn), [Gabriel Pereyra](https://www.linkedin.com/in/gabepereyra)
