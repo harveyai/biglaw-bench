@@ -1,0 +1,170 @@
+Number,Category,Task Type,Task,Prompt,Document(s),Rubric
+4,Litigation,Regulatory & Advising,Analyze court order and draft client alert regarding implications for 2020 NBPP. ,"Based on the attached filings, write a client alert that summarizes the Court's December order and how that order implicates the 2020 NBPP.","4a. D.D.C. 22-cv-02604 dckt 000043_000 filed 2023-11-27.pdf
+4b. D.D.C. 22-cv-02604 dckt 000047_000 filed 2023-12-11.pdf 
+4c. D.D.C. 22-cv-02604 dckt 000051_000 filed 2023-12-22.pdf ","Affirmative Points:
+
+1. Structure:
+        a. Does the response provide general background on the case? (1 point)
+2. Style: N/A
+3. Substance:
+        a. 2020 NBPP:
+                i. Does the response state that copay accumulator programs permit insurers not to count certain payments obtained through drug-manufacturer assistance against insured individuals’ annual deductible and out-of-pocket maximum amounts? (1 point)
+                ii. Does the response state that the 2020 NBPP allows private health plans to exclude the value of manufacturer cost-sharing support from patients’ annual cost-sharing limits only if a generic equivalent is available and medically appropriate? (1 point)
+        b. 2021 NBPP:
+                i. Does the response state that the 2021 NBPP had allowed private health insurers to utilize copay accumulator programs regardless of a generic’s availability? (1 point)
+        c. September 2023 Order:
+                i. Does the response state that the Court vacated the 2021 NBPP in its September 2023 order? (1 point)
+        d. Motion to Clarify:
+                i. Does the response state that the Department of Health and Human Services (HHS) and the Centers for Medicare & Medicaid Services (collectively, the agencies) motioned to clarify the scope of the Court’s September 2023 order? (1 point)
+                ii. Does the response state that in their motion to clarify, the agencies explained that they intended to address through rulemaking any issues left open by the Court’s September 2023 order? (1 point)
+                iii. Does the response state that in their motion to clarify, the agencies explained that they would not take any enforcement action against insurers for the copay accumulator programs they choose to offer? (1 point)
+                iv. Does the response state that Plaintiffs objected to the agencies’ plans to implement a nonenforcement policy? (1 point)
+        e. December 2023 Order:
+                i. Does the response state that the Court’s December 22 order makes clear that the 2020 NBPP was reinstated by the Court’s prior September 2023 order? (1 point)
+                ii. Does the response state that as of the December 22 order, private health plans may exclude the value of manufacturer cost-sharing support from patients’ annual cost-sharing limits only if a generic equivalent is available and medically appropriate? (1 point)
+                iii. Does the response state that considering the reinstated 2020 NBPP and the agencies’ nonenforcement policy, it is unclear whether the limitation regarding generic availability will be enforced? (2 points)
+                iv. Does the response state that the agencies’ intention to engage in future rulemaking on the issue indicates that a new rule may be forthcoming? (2 points)
+
+Negative Points:
+
+1. -1 point for every hallucination
+2. -0.5 point for every statement of accurate but extraneous or misconstrued information
+"
+5,Litigation,Document Review & Analysis,"Analyze trial documents and draft an analysis of conflicts, gaps, contradictions, or ambiguities, including a detailed chronology of events and analysis results.","First, generate a detailed chronological summary of events from these trial documents and then second, identify any conflicts, gaps, contradictions or ambiguities.","5a. Exhibit — AES Call Transcript.PDF
+5b. Exhibit — Enron Call Transcript.PDF
+5c. Exhibit — Brad Ahrens Email.PDF
+5d. Exhibit — Rogers Letter.PDF
+5e. Skilling Deposition Transcript.PDF","Affirmative Points:
+
+1. Structure:
+        a. Does the response include a timeline with dates that progress in chronological order? (1 point)
+        b. Does the response include a separate section on gaps, contradictions, or ambiguities? (1 point)
+2. Style: N/A
+3. Substance:
+        a. Chronology:
+                i. Does the response state that on July 13, 2001, Jeffrey Skilling decided he wanted out of his position as CEO of Enron? (1 point)
+                ii. Does the response state that in August 2001, Jeffrey Skilling resigned from Enron? (1 point)
+                iii. Does the response state that on September 6, 2001, Jeffrey Skilling called Glenn Ray and said he would like to sell 200,000 shares of Enron? (1 point)
+                iv. Does the response state that on September 7, 2001, Glenn Ray emailed Michael Lind and explained that Skilling stated a desire to sell 2000,000 shares of Enron? (1 point)
+                v. Does the response state that on September 10, 2001, Rex Rogers sent Glenn Ray a letter that explained that Jeffrey Skilling voluntarily resigned from Enron and his position as President and Chief Executive Office effective August 2001? (1 point)
+                vi. Does the response state that on September 17, 2001, there were several calls that resulted in Jeffrey Skilling selling 500,000 shares of Enron? (1 point)
+                vii. Does the response state that on September 17, 2001, Jeffrey Skilling told Glenn Ray that he was worried because the market was dropping? (1 point)
+                viii. Does the response state that on December 6, 2001, Jeffrey Skilling took part in a U.S. Securities and Exchange Commission hearing? (1 point)
+        b. Gaps or ambiguities:
+                i. Does the response state that Jeffrey Skilling said the only reason he sold his 500,000 Enron shares on September 17 was because of September 11, but he had told Glenn Ray that he would like to sell 200,000 shares of Enron on September 6? (3 point)
+                ii. Does the response state that Jeffrey Skilling did not appear concerned about any SEC requirements, like the 144 filing, during his September 17 call with Glenn Ray? (1 point)
+
+Negative Points
+
+1. -1 point for every hallucination
+2. -0.5 point for every statement of accurate but extraneous or misconstrued information"
+19,Transactional,Corporate Strategy & Advising,Draft memorandum to general counsel regarding the treatment of employee equity awards in merger.,"Draft a memo to the general counsel of Ansys, Inc. describing the treatment of employee equity awards in the merger. The memo should use subheadings and numerical examples.",19. Synopsys.pdf,"Affirmative Points:
+
+1. Structure:
+        a. Is the response formatted as a memo? (1 point)
+        b. Does the response contain subheadings? (1 point)
+2. Style:
+        a. Does the response have a professional tone resembling a lawyer writing to another lawyer? (2 points)
+3. Substance:
+        a. Types of Equity Awards:
+                i. Does the response state that an “In-the-Money Option” is an outstanding Company Option that has an exercise price less than the Equity Award Cash Consideration Amount? (1 point)
+                ii. Does the response state that an “Out-of-the-Money Option” is an outstanding Company option that has an exercise price that is equal to or greater than the Equity Award Cash Consideration Amount? (1 point)
+                iii. Does the response state that a “Specified Option” is an In-the-Money Option held by a Person who is no longer an employee or other service provider to the Acquired Companies? (1 point)
+                iv. Does the response state that a “Specified RSU” is a Company RSU that is (a) vested and not yet settled, (b) outstanding and was granted to a non-employee member of the Company’s board of directors, (c) vests effective as of the Effective Time in accordance with its terms, or (d) is outstanding and not forfeited and held by a Person who is no longer an employee or other service provider to the Acquired Companies? (1 point)
+        b. Relevant Amounts:
+                i. Does the response state that the “Equity Award Cash Consideration Amount” is the sum of (a) the Per Share Cash Amount plus (b) the product of (i) the Exchange Ratio, multiplied by (ii) the Parent Measurement Price? (1 point)
+                ii. Does the response state that the ""Exchange Ratio"" is 0.3450 of a share of Parent Common Stock? (1 point)
+                iii. Does the response state that the ""Per Share Cash Amount"" is $197.00? (1 point)
+                iv. Does the response state that the “Parent Measurement Price” is the volume weighted average trading price of Parent Common Stock on the Parent Stock Exchange for the five consecutive trading days ending on the trading day immediately preceding the Closing Date? (1 point)
+                v. Does the response state that the “Conversion Ratio” is the sum of (a) the Exchange Ratio, plus (b) the quotient obtained by dividing (i) the Per Share Cash Amount by (ii) the Parent Measurement Price? (1 point)
+                vi. Does the response state that the ""Merger Consideration"" is the share consideration determined by the Exchange Ratio plus the Per Share Cash Amount, plus any cash in lieu of fractional shares and any dividends or other distributions? (1 point)
+        c. Treatment of Equity Awards:
+                i. Does the response state that each Specified Option will be canceled, and the holder will receive a cash amount equal to the number of shares subject to the option multiplied by the excess of the Equity Award Cash Consideration Amount over the exercise price for the option? (1 point)
+                ii. Does the response state that each Company Option (except for Specified Options and Out-of-the-Money Options held by a Person who is no longer an employee or other service provider to the Acquired Companies) will be assumed by the Parent and converted into an option to purchase shares of Parent Common Stock equal to the product of (i) the number of shares of Company Common Stock subject to such Company Option, multiplied by (ii) the Conversion Ratio, at an exercise price per share of Parent Common Stock equal to the quotient obtained by dividing (A) the per share exercise price for the Company Common Stock subject to such Company Option, by (B) the Conversion Ratio? (1 point)
+                iii. Does the response state that each Out-of-the-Money Option held by a person who is no longer an employee or service provider of the Acquired Companies will be canceled and extinguished for no consideration? (1 point)
+                iv. Does the response state that each outstanding and unvested Company RSU, excluding Specified RSUs, will automatically convert into Parent RSUs equal to the product of the number of shares of Company Common Stock subject to the Company RSU multiplied by the Conversion Ratio, subject to the same terms and conditions as were applicable to such Company RSU? (1 point)
+                v. Does the response state that each outstanding Specified RSU, vested or unvested, will be canceled, and holders will receive the Merger Consideration on the same terms and conditions as outstanding shares of Company Common Stock and any accrued but unpaid dividend equivalents in cash? (1 point)
+                vi. Does the response state that if requested by Parent, any available shares of Company Common Stock for issuance under equity plans will be converted into shares of Parent Common Stock based on the Conversion Ratio? (1 point)
+        d. Numerical Examples:
+                i. Does the response include an example showing how the agreement provisions would apply in a hypothetical scenario involving options? (1 point)
+                ii. Is the numerical example involving options calculated correctly? (1 point)
+                iii. Does the response include an example showing how the agreement provisions would apply in a hypothetical scenario involving RSUs? (1 point)
+                iv. Is the numerical example involving RSUs calculated correctly? (1 point)
+
+Negative Points:
+
+1. -1 point for every hallucination (other than miscalculated examples)
+2. -0.5 points for every statement of accurate but extraneous or irrelevant information
+3. -1 point for ever 100 words under the 800-word minimum"
+49,Transactional,Drafting,Draft board consent approving a potential conflict of interest in the engagement of a lawyer who is affiliated with an officer of the company.,Draft board resolutions approving engaging a lawyer who is related to an officer and approval is required to address the conflict of interest.,N/A,"Affirmative Points:
+
+1. Structure:
+        a Is the response in the format of board resolutions with WHEREAS statements to provide background and RESOLVED statements saying exactly what the board is approving? (2 points)
+2. Style:
+        a. Are the resolutions written in a formal tone with highly specific legal language? (2 points)
+3. Substance:
+        a. Do the WHEREAS statements give the context that a potential lawyer is related to an officer and the board is aware of a potential conflict of interest? (1 point)
+        b. Do the RESOLVED statements explicitly provide that the board approves of engaging the lawyer despite the potential conflict of interest? (1 point)
+        c. Do the resolutions mention the board's conclusion that it is in the best interests of the company to engage the lawyer? (1 point)
+        d. Do the resolutions mention some element of reasoning, procedure, or analysis to justify the board's decision (e.g., the attorney is well suited to handle the manner)? (1 point)
+        e. Do the resolutions establish a safeguard against the conflict (e.g., independent review, oversight of negotiations, specified contractual terms, etc.)? (1 point)
+
+Negative Points:
+
+1. -1 point for every hallucination
+2. -0.5 points for every statement of accurate but extraneous or irrelevant information"
+60,Transactional,Negotiation Strategy,Analyze expense reimbursement provisions in precedent agreements to determine market terms.,State whether or not each document contains an expense reimbursement provision. Summarize the expense reimbursement provisions found.,"60a. Spansion Inc..pdf
+60b. J. L. Halsey Corporation.pdf 
+60c. Condor Hospitality Trust, Inc..pdf 
+60d. Valaris plc.pdf 
+60e. Black Ridge Oil & Gas, Inc..pdf  ","Affirmative Points:
+
+1. Structure: N/A
+2. Style: N/A
+3. Substance:
+        a. Spansion, Inc. document:
+                i. Does the response state that the Spansion, Inc. document DOES have an expense reimbursement provision? (1 point)
+                ii. Does the response state that regardless of whether the transaction is consummated, Spansion, Inc. will reimburse SLS Spansion Holdings, LLC and its Affiliates the reasonable fees and expenses incurred in connection with the transaction, including industry research, travel expenses, fees and expenses of counsel, and fees and expenses of the accountants, financial advisors and other professionals? (1 point)
+                iii. Does the response state that Spansion, Inc. will pay as soon as reasonably practicable, and not more than ten Business Days after presentation of an invoice? (1 point)
+        b. J. L. Halsey Corporation document:
+                i. Does the response state that the J. L. Halsey Corporation document DOES have an expense reimbursement provision? (1 point) 
+                ii. Does the response state that upon written request by LDN Stuyvie Partnership, J. L. Halsey Corporation agrees to reimburse LDN for reasonable documented attorneys’ fees and expenses incurred by LDN in connection with the transactions? (1 point)
+                iii. Does the response state that there is a reimbursement cap of $25,000? (1 point)
+                iv. Does the response state that J. L. Halsey Corporation may increase the reimbursement cap by a reasonable amount if warranted in light of the circumstances? (1 point)
+        c. Valaris plc document
+                i. Does the response state that the Valaris plc document DOES have an expense reimbursement provision? (1 point)
+                ii. Does the response state that regardless of whether the transaction is consummated, Valaris plc, along with its subsidiary debtors, pays the documented reasonable third-party fees and expenses of each Initial Backstop Party, including those of legal counsel, other professionals incurred in connection with the matters of the agreement and others discussed therein? (1 point)
+                iii. Does the response state that the amount accrued through the date of signing is paid on the date of signing, and thereafter the payments shall be made within 10 days of receiving an invoice? (1 point)
+        d. Black Ridge Oil & Gas, Inc. document
+                i. Does the response state that the Black Ridge Oil & Gas, Inc. document DOES have an expense reimbursement provision? (1 point)
+                ii. Does the response state that the expense reimbursement provision is in the Registration Rights Agreement exhibit? (1 point)
+                iii. Does the response state that Black Ridge Oil & Gas, Inc. will pay reasonable fees and expenses of one counsel to Purchasers in connection with the registration? (1 point)
+        e. Condor Hospitality Trust, Inc. document 
+                i. Does the response state that the Condor Hospitality Trust, Inc. document does NOT have an expense reimbursement provision? (1 point)
+
+Negative Points:
+
+1. -1 point for every hallucination
+2. -0.5 points for every statement of accurate but extraneous or irrelevant information"
+96,Litigation,Trial Preparations & Oral Argument,Draft an explanation of potential objections to a third-party subpoena in federal court and create a detailed outline of the best objection.,"Can we object to subpoenas served on third parties in federal court? Please explain and provide options on how we could object. Then, draft a detailed outline of our best objection.  ",N/A,"Affirmative points
+
+1. Structure: 
+        a. Does the response include an overview of options on how to object to a third-party subpoena? (1 point)
+        b. Does the response include an outline of best objections? (1 point)
+2. Style: N/A
+3. Substance:
+        a. Does the response provide a general overview of subpoenas under Federal Rule of Civil Procedure 45? (1 point)
+        b. Does the response state that the scope of discovery in Federal Rule of Civil Procedure 45 interacts with or may cover the same ground as Federal Rule of Civil Procedure 26? (1 point)
+        c. Does the response state that a party likely cannot simply object to a subpoena served on a non-party but rather must move to quash or seek a protective order? (1 point)
+        d. Does the response state that a party must establish that it has standing to properly quash or seek a protective order against a third-party subpoena? (1 point)
+        e. Does the response state that a party has standing to move to quash or seek a protective order against a third-party subpoena where that subpoena infringes on the moving party’s rights or legitimate interests? (1 point)
+        f. Does the response state that a party has standing to move to quash or seek a protective order against a third-party subpoena where the party has a legitimate privacy interest in the sought information? (1 point)
+        g. Does the response state that a party might have standing to move to quash or seek a protective order against a third-party subpoena if that subpoena seeks irrelevant information? (1 point)
+        h. Does the response provide a general overview of subpoenas under Federal Rule of Criminal Procedure 17? (1 point)
+        i. Does the response state that regardless of whether the movant has standing in a criminal case, the court is obligated under Rule 17 to assess each subpoena for compliance? (1 point)
+        j. Does the response state that the best objections to a third-party subpoena depend on the particular facts of the case and nature of the dispute? (1 point)
+
+Negative Points
+
+1. -1 point for every hallucination
+2. -0.5 point for every statement of accurate but extraneous or misconstrued information"
