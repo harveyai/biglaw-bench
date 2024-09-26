@@ -4,8 +4,10 @@ A new standard for evaluating AI on legal & professional tasks.
 ## Overview
 BigLaw Bench is a comprehensive framework for evaluating the performance of large language models (LLMs) on complex, real-world legal tasks. Developed by Harvey's legal research team, BigLaw Bench aims to supplement existing benchmarks by focusing on tasks that mirror actual billable work performed by lawyers, providing a more accurate measure of an AI model's utility in professional legal settings.
 
-## Task Categories
-BigLaw Bench tasks are organized into two primary categories, each encompassing several specific task types:
+## Benchmarks
+
+### 1. BigLaw Bench — Core
+BigLaw Bench Core is a set of core tasks for benchmarking baseline legal problem-solving. Core tasks are organized into two primary categories, each encompassing several specific sub-task types:
 
 #### Transactional Task Categories
 - Corporate Strategy & Advising
@@ -26,6 +28,12 @@ BigLaw Bench tasks are organized into two primary categories, each encompassing 
 - Transcript Analysis
 - Document Review and Analysis
 - Trial Preparations & Oral Argument
+
+### 2. BigLaw Bench — Workflows
+BigLaw Bench Workflows represent a set of composite legal tasks that are used to evaluate agentic systems. We currently provide benchmarks for:
+
+#### SPA Deal Points
+Evaluates the ability of LLM agents to extract a variety of standard deal points from a dataset of Share Purchase Agreements (SPAs). 
 
 ## Evaluation Methodology
 Each task in BigLaw Bench is assessed using custom-designed rubrics that measure:
