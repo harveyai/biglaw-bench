@@ -34,8 +34,13 @@ Each task in BigLaw Bench is assessed using custom-designed rubrics that measure
 
 Scores are calculated by combining positive points for meeting task requirements and negative points for errors or missteps (e.g. hallucinations). The final answer score represents: *What % of a lawyer-quality work product does the model complete for the user?*
 
-## Data Sample
-A sample of tasks and grading rubrics can be found [here](biglaw-bench-sample.csv). For access to the full dataset and additional resources, please contact Harvey directly.
+## Data Samples
+Sample tasks and grading rubrics can be found at the links below.
+
+1. BLB-core: [here](blb-core)
+2. BLB-workflows-spa: [here](blb-workflows/spa)
+
+For access to the full dataset and additional resources, please contact Harvey directly.
 
 ## Credits
 [Julio Pereyra](https://www.linkedin.com/in/julio-pereyra-411738147), [Elizabeth Lebens](https://www.linkedin.com/in/beth-lebens-777847263), [Matthew Guillod](https://www.linkedin.com/in/matthew-guillod-284671116), [Laura Toulme](https://www.linkedin.com/in/laura-toulme-a6b66182), [Cameron MacGregor](https://www.linkedin.com/in/cameron-macgregor-396580164), [David Murdter](https://www.linkedin.com/in/davidmurdter), [Karl de la Roche](https://www.linkedin.com/in/karldelaroche), [Emilie McConnachie](https://www.linkedin.com/in/emilie-mcconnachie), [Jeremy Pushkin](https://www.linkedin.com/in/jeremypushkin), [Rina Kim](https://www.linkedin.com/in/rinakime), [Aaron Chan](https://www.linkedin.com/in/aaron-y-chan), [Jenny Pan](https://www.linkedin.com/in/jennyypan), [Boling Yang](https://www.linkedin.com/in/boling-yang-104534123), [Nan Wu](https://www.linkedin.com/in/nan-wu-41895bb7), [Niko Grupen](https://www.linkedin.com/in/nikogrupen), [Lauren Oh](https://www.linkedin.com/in/lauren-dayoun-oh), [Aatish Nayak](https://www.linkedin.com/in/aatishn), [Gabriel Pereyra](https://www.linkedin.com/in/gabepereyra)
