@@ -15,7 +15,6 @@
         "entity_type": "string",
         "jurisdiction": "string"
     },
-    "share_class_type": "string",
     "price": {
         "base_purchase_price": "string",
         "price_per_share": "string",
