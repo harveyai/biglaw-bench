@@ -1,0 +1,70 @@
+{
+    "effective_date": "string",
+    "purchaser": {
+        "name": "string",
+        "entity_type": "string"
+    },
+    "seller": {
+        "name": "string",
+        "entity_type": "string"
+    },
+    "company": {
+        "name": "string",
+        "entity_type": "string",
+        "jurisdiction": "string"
+    },
+    "share_class_type": "string",
+    "price": {
+        "aggregate_price": 0,
+        "price_per_share": 0,
+        "number_of_shares": 0
+    },
+    "closing_deliverables": [
+        "string"
+    ],
+    "closing_process": "string",
+    "post_closing_payments_adjustments": "string",
+    "capitalization": {
+        "shares_outstanding": 0,
+        "pro_forma_percentage": 0
+    },
+    "transaction_agreements": [
+        "string"
+    ],
+    "indemnification": {
+        "by_buyer": {
+            "survival": 0,
+            "liability_cap": 0,
+            "basket": 0
+        },
+        "by_seller": {
+            "survival": 0,
+            "liability_cap": 0,
+            "basket": 0
+        }
+    },
+    "covenants": [
+        "string"
+    ],
+    "conditions_precedent": [
+        "string"
+    ],
+    "governing_law": "string",
+    "dispute_resolution": {
+        "method": "string",
+        "jurisdiction": "string"
+    },
+    "termination_rights": {
+        "by_buyer": "string",
+        "by_seller": "string"
+    },
+    "effect_of_termination": [
+        "string"
+    ],
+    "tax_matters": "string",
+    "fees_and_expenses": "string",
+    "notices": {
+        "to_buyer": "string",
+        "to_selleror_company": "string"
+    }
+}
