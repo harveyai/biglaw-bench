@@ -32,8 +32,14 @@ BigLaw Bench Core is a set of core tasks for benchmarking baseline legal problem
 ### 2. BigLaw Bench — Workflows
 BigLaw Bench Workflows represent a set of composite legal tasks that are used to evaluate agentic systems. We currently provide benchmarks for:
 
-#### SPA Deal Points
-Evaluates the ability of LLM agents to extract a variety of standard deal points from a dataset of Share Purchase Agreements (SPAs). 
+- **SPA Deal Points:** Evaluates the ability of LLM agents to extract a variety of standard deal points from a dataset of Share Purchase Agreements (SPAs). 
+
+### 3. BigLaw Bench — Retrieval
+BigLaw Bench Retrieval is a set of datasets and tasks for benchmarking the quality of retrieval systems. We currently provide benchmarks for:
+
+- **Contracts:** Complex documents (e.g., hundreds of pages and potentially hundreds of thousands of tokens of text) with cross-references and defined terms which must be tracked to effectively contextualize relevant text. We currently support two types of contracts -- Merger Agreements and SPAs. 
+
+- **Discovery Emails:** Relatively short documents that come in high-volume and have complex relationships (e.g., email threads) and rich metadata (sender, recipient, attachments) essential to identifying relevant messages.
 
 ## Evaluation Methodology
 Each task in BigLaw Bench is assessed using custom-designed rubrics that measure:
@@ -47,6 +53,7 @@ Sample tasks and grading rubrics can be found at the links below.
 
 1. BLB-core: [here](blb-core)
 2. BLB-workflows-spa: [here](blb-workflows/spa)
+3. BLB-retrieval: [here](blb-workflows/retrieval)
 
 For access to the full dataset and additional resources, please contact Harvey directly.
 
