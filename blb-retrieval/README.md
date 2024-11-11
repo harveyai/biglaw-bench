@@ -1,4 +1,4 @@
-### BLB-Retrieval Data Samples
+### BLB-Retrieval
 This folder contains data samples from our BLB - Retrieval experiments. This includes public subsets of three corpora:
 1. Discovery Emails
 2. Merger Agreements
