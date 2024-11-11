@@ -1,4 +1,4 @@
-BLB-Core
+BigLaw Bench — Core
 This folder contains data samples from our core BLB experiments. This includes public subsets of the corpus covering the following legal tasks:
 
 **Transactional Task Categories**
