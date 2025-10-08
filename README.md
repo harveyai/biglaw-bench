@@ -53,7 +53,7 @@ Sample tasks and grading rubrics can be found at the links below.
 
 1. BLB-core: [here](blb-core)
 2. BLB-workflows-spa: [here](blb-workflows/spa)
-3. BLB-retrieval: [here](blb-workflows/retrieval)
+3. BLB-retrieval: [here](blb-retrieval)
 
 For access to the full dataset and additional resources, please contact Harvey directly.
 
